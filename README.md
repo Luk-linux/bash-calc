@@ -13,6 +13,6 @@ A simple interactive calculator written in Bash that allows users to perform bas
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/bash-calculator.git
-   cd bash-calculator
+   git clone https://github.com/Luk-linux/bash-calc
+   cd bash-calc
 
