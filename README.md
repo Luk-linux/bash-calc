@@ -1,6 +1,6 @@
 # Bash Calculator
 
-A simple interactive calculator written in Bash that allows users to perform basic arithmetic operations. This script prompts the user for input and provides results in real-time.
+A simple interactive calculator written in Bash that allows users to perform basic arithmetic operations. This script prompts the user for input and provides results in real-time  with ease.
 
 ## Features
 
